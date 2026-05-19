@@ -1,2 +1,0 @@
-provincias.geojson filter=lfs diff=lfs merge=lfs -text
-distritos.geojson filter=lfs diff=lfs merge=lfs -text
